@@ -17,3 +17,8 @@ The project uses Unity-Chan "Candy Rock Star"
 [Readme JP]:  https://github.com/unity3d-jp/unitychan-crs/blob/master/README_JP.txt
 [Readme EN]:  https://github.com/unity3d-jp/unitychan-crs/blob/master/README_EN.txt
 [Wiki]:       https://github.com/unity3d-jp/unitychan-crs/wiki
+
+
+![LICENCE_Image](http://unity-chan.com/images/imageLicenseLogo.png)
+
+<div><img src= alt="ユニティちゃんライセンス"><p>この作品は<a href="http://unity-chan.com/contents/license_jp/" target="_blank">ユニティちゃんライセンス条項</a>の元に提供されています</p></div>
